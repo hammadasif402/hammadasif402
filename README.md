@@ -5,9 +5,10 @@ I'm a **Data Science practitioner** with an vast interest in **Natural Language 
 
 
 *  🔭 I’m currently working on mutiple **Data Science/Analytics Projects.**
-* 🤝🏻 I'm open for collaborations in **Data Science** and **Machine Learning domains.**
+* 🤝🏻 I'm open for collaborations in **Data Science** and **Machine Learning domains.**                               ![image](https://user-images.githubusercontent.com/74875690/124590510-a6be6400-de74-11eb-80ae-e4dec7dd3a6d.png)
+
 *  💻 I'm looking for an experience in field of **Natural language processing.**
-*  💬 Ask me about anything you feel like!
+*  💬 Ask me about anything [here](https://www.linkedin.com/in/hammad-asif-32b54a207/) I am happy to help.
 *  🥅 2021 Goals: Contribute more to Open Source projects.
 *  ⚡ Fun fact: love to code and solve problems
 *  📌 Scroll down to see my **Pinned Repositories.**
