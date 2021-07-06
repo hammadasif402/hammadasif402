@@ -9,7 +9,8 @@ I'm a **Data Science practitioner** with an vast interest in **Natural Language 
 *  ⚡ Fun fact: love to code and solve problems
 *  📌 Scroll down to see my **Pinned Repositories.**
 
-#### ![image](https://user-images.githubusercontent.com/74875690/124590510-a6be6400-de74-11eb-80ae-e4dec7dd3a6d.png)
+![image](https://user-images.githubusercontent.com/74875690/124592173-9b6c3800-de76-11eb-8b22-bf35b16bea51.png)
+
 
 
 ### 🤝🏻 Connect with me:
