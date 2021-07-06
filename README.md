@@ -13,5 +13,4 @@ I'm a **Data Science practitioner** with an vast interest in **Natural Language 
 *  📌 Scroll down to see my **Pinned Repositories.**
 
 
-### 🤝🏻 Connect with me:
-##### [![image](https://user-images.githubusercontent.com/74875690/124562273-45889780-de58-11eb-9218-86e73f2e5495.png)](https://www.kaggle.com/hammad40241) [![image](https://user-images.githubusercontent.com/74875690/124560062-d611a880-de55-11eb-92ce-3834ff797954.png)](https://www.linkedin.com/in/hammad-asif-32b54a207/) 
+### 🤝🏻 Connect with me:[![image](https://user-images.githubusercontent.com/74875690/124562273-45889780-de58-11eb-9218-86e73f2e5495.png)](https://www.kaggle.com/hammad40241) [![image](https://user-images.githubusercontent.com/74875690/124560062-d611a880-de55-11eb-92ce-3834ff797954.png)](https://www.linkedin.com/in/hammad-asif-32b54a207/) 
