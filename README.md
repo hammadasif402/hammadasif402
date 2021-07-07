@@ -2,6 +2,8 @@
 
 I'm a **Data Science practitioner** with an vast interest in **Natural Language Processing** and **Machine Learning.**
 
+![image title](https://rushter.com/counter.svg)
+
 * 🔭 I’m currently working on mutiple **Data Science/Analytics Projects.**         
 * 🤝🏻 I'm open for collaborations in **Data Science** and **Machine Learning** domains.                                                                                                                                                                                                                      <img align="right" src= "https://raw.githubusercontent.com/sameer-patel-dev/sameer-patel-dev/main/code.gif" width="350" height="250"  />                                                                                               
 * 💻 I'm looking for an experience in field of **Natural language processing.**
