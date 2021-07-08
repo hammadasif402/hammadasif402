@@ -1,5 +1,8 @@
 ### Hi there 👋 I'm Hammad!
 
+[![Image of https://github.com/hammadasif402/profile-views-counter](https://github.com/hammadasif402/profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/hammadasif402/profile-views-counter)
+
+
 I'm a **Data Science practitioner** with an vast interest in **Natural Language Processing** and **Machine Learning.**
 
 
