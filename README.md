@@ -2,6 +2,10 @@
 
 ![VisitorCount](https://profile-counter.glitch.me/{YOURUSER}/count.svg)
 
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+
+
+
 I'm a **Data Science practitioner** with an vast interest in **Natural Language Processing** and **Machine Learning.**
 
 
