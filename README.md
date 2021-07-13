@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Hammad!
 
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![VisitorCount](https://profile-counter.glitch.me/{YOURUSER}/count.svg)
 
 I'm a **Data Science practitioner** with an vast interest in **Natural Language Processing** and **Machine Learning.**
 
