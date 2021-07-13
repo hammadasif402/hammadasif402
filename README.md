@@ -1,7 +1,6 @@
 ## Hi there 👋 I'm Hammad!
 
-[![Image of https://github.com/hammadasif402/profile-views-counter](https://github.com/hammadasif402/profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/hammadasif402/profile-views-counter)
-
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
 
 I'm a **Data Science practitioner** with an vast interest in **Natural Language Processing** and **Machine Learning.**
 
