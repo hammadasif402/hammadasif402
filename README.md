@@ -19,7 +19,8 @@ I'm a **Data Science practitioner** with an vast interest in **Natural Language 
 
 ### 🤝🏻 Connect with me:
 
-#### [![image](https://user-images.githubusercontent.com/74875690/124563510-859c4a00-de59-11eb-9510-c4bb6151b4a8.png)](https://www.kaggle.com/hammad40241) [![image](https://user-images.githubusercontent.com/74875690/124565143-250e0c80-de5b-11eb-8a96-e57dde1f7385.png)](https://www.linkedin.com/in/hammad-asif-32b54a207/)
+#### [![image](https://user-images.githubusercontent.com/74875690/124563510-859c4a00-de59-11eb-9510-c4bb6151b4a8.png)](https://www.kaggle.com/hammad40241) ![image](https://user-images.githubusercontent.com/74875690/126060114-494dbee5-6aa6-4cf1-bf48-b6b0d94915d0.png)(https://www.linkedin.com/in/hammad-asif-32b54a207/) ![image](https://user-images.githubusercontent.com/74875690/126060145-35e7bb27-491d-4a2f-ab38-5a7ad23f336f.png)(hammadasif308@gmail.com)
+
 
 
 ### Languages and Tools:
