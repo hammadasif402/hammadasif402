@@ -11,7 +11,7 @@ I'm a **Data Science practitioner** with an vast interest in **Natural Language 
 * 🤝🏻 I'm open for collaborations in **Data Science** and **Machine Learning** domains.                                                                                                                                                                                                                      <img align="right" src= "https://raw.githubusercontent.com/sameer-patel-dev/sameer-patel-dev/main/code.gif" width="350" height="250"  />                                                                                               
 * 💻 I'm looking for an experience in field of **Natural language processing.**
 * 💬 Ask me about anything [here](https://www.linkedin.com/in/hammad-asif-32b54a207/) I am happy to help.
-* 🥅 2021 Goals: Contribute more to Open Source projects.
+* 🥅 2022 Goals: Contribute more to Open Source projects.
 * ⚡ Fun fact: love to code and solve problems
 * 📌 Scroll down to see my **Pinned Repositories.**
 
