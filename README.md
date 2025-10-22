@@ -4,15 +4,8 @@
 ![](https://komarev.com/ghpvc/?username=hammadasif402&color=green)
 
 
-I'm a **Data Science practitioner** with an vast interest in **Natural Language Processing** and **Machine Learning.**
-
-
-* 🔭 I’m currently working on mutiple **Data Science/Analytics Projects.**         
-* 🤝🏻 I'm open for collaborations in **Data Science** and **Machine Learning** domains.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
-* 💻 I'm looking for an experience in field of **Natural language processing.*                                                                                                                         
-* 🥅 2022 Goals: Contribute more to Open Source projects.
-* ⚡ Fun fact: love to code and solve problems
-* 📌 Scroll down to see my **Pinned Repositories.**                                                                                                                                                                                                                                     
+I'm a **AI practitioner**
+* 🔭 I’m currently working as **AI Engineer** at BRB Group                                                                                                                                                                                                                                           
 
 
 <img align="right" src= "https://raw.githubusercontent.com/sameer-patel-dev/sameer-patel-dev/main/code.gif" width="350" height="250"  />                                                                                               
